@@ -1,5 +1,5 @@
 <template>
-  <button @click="fetchData()">Say Hello</button>
+  <button @click="fetchData()">Telkom</button>
 </template>
 
 <script>

@@ -2,7 +2,7 @@
   <div class="hello">
     <h1>{{ msg }}</h1>
     <p>
-      TELKOM SCHOOL MENDIDIK ANAK INDONESIA CALON PEMIMIMPIN BANGSA
+      SMK Telkom Makassar
     </p>
     <h3>Installed CLI Plugins</h3>
     <ul>
