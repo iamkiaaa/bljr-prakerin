@@ -4,14 +4,15 @@
     <p>
       SMK Telkom Makassar adalah Sekolah Menengah Kejuruan Pusat Keunggulan
     </p>
+    <hr>
     <h3>Address</h3>
     <ul>
-      <li>Jl. A. P. Pettarani No.4, Gn. Sari, Kec. Rappocini, Kota Makassar, Sulawesi Selatan 90221</li>
+      <li>Jl. A. P. Pettarani No.4, Gn. Sari, Kec. Rappocini, Kota Makassar, Sulawesi Selatan 90221</li><br>
       <li><a href="https://www.google.com/maps/place/SMK+TELKOM+Makassar/@-5.1712763,119.4341976,17z/data=!3m1!4b1!4m6!3m5!1s0x2dbee32da1a075d3:0x88e9cc6030cfa1dd!8m2!3d-5.1712763!4d119.4363863!16s%2Fg%2F11hzz54gmz" target="_blank" rel="noopener">Maps</a></li>
     </ul>
     <h3>Contact</h3>
     <ul>
-      <li>Follow us to know more about SMK TELKOM MAKASSAR</li>
+      <li>Follow us to know more about SMK TELKOM MAKASSAR</li><br>
       <li><a href="https://www.instagram.com/stelkmakassar/" target="_blank" rel="noopener">Instagram</a></li>
       <li><a href="https://m.facebook.com/stelkmakassar/" target="_blank" rel="noopener">Facebook</a></li>
       <li><a href="Stelkmks.ypt@gmail.com" target="_blank" rel="noopener">Email</a></li>
@@ -19,7 +20,7 @@
     </ul>
     <h3>Our Website</h3>
     <ul>
-      <li>Also visit our website to know more about SMK TELKOM MAKASSAR</li>
+      <li>Also visit our website to know more about SMK TELKOM MAKASSAR</li><br>
       <li><a href="https://smktelkom-mks.sch.id/" target="_blank" rel="noopener">SMK TELKOM MAKASSAR</a></li>
     </ul>
   </div>
