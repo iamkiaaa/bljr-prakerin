@@ -21,6 +21,7 @@ export default {
 <style>
 input, textarea{
   border: none;
+  border-radius: 5px;
   background: #D3D3D3;
   padding: 10px;
   margin: 10px;
