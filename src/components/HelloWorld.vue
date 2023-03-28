@@ -42,6 +42,9 @@ h1{
   color: #2c3e50;
   font-weight: 600;
 }
+p{
+  font-weight: 500;
+}
 h3 {
   margin: 40px 0 0;
 }
@@ -57,5 +60,8 @@ a {
   text-decoration: none;
   color: red;
   font-weight: 600;
+}
+a:hover{
+  color: #ad2218;
 }
 </style>

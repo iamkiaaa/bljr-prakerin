@@ -18,7 +18,7 @@ export default {
 };
 </script>
 
-<style>
+<style scoped>
 input, textarea{
   border: none;
   border-radius: 5px;
