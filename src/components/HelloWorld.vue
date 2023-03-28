@@ -13,6 +13,7 @@
     <h3>Contact</h3>
     <ul>
       <li>Follow us to know more about SMK TELKOM MAKASSAR</li><br>
+      <li>Or you can contact us on (0411) 865222</li><br>
       <li><a href="https://www.instagram.com/stelkmakassar/" target="_blank" rel="noopener">Instagram</a></li>
       <li><a href="https://m.facebook.com/stelkmakassar/" target="_blank" rel="noopener">Facebook</a></li>
       <li><a href="Stelkmks.ypt@gmail.com" target="_blank" rel="noopener">Email</a></li>
