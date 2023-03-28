@@ -2,28 +2,25 @@
   <div class="hello">
     <h1>{{ msg }}</h1>
     <p>
-      SMK Telkom Makassar
+      SMK Telkom Makassar adalah Sekolah Menengah Kejuruan Pusat Keunggulan
     </p>
-    <h3>Installed CLI Plugins</h3>
+    <h3>Address</h3>
     <ul>
-      <li><a href="https://github.com/vuejs/vue-cli/tree/dev/packages/%40vue/cli-plugin-babel" target="_blank" rel="noopener">babel</a></li>
-      <li><a href="https://github.com/vuejs/vue-cli/tree/dev/packages/%40vue/cli-plugin-eslint" target="_blank" rel="noopener">eslint</a></li>
+      <li>Jl. A. P. Pettarani No.4, Gn. Sari, Kec. Rappocini, Kota Makassar, Sulawesi Selatan 90221</li>
+      <li><a href="https://www.google.com/maps/place/SMK+TELKOM+Makassar/@-5.1712763,119.4341976,17z/data=!3m1!4b1!4m6!3m5!1s0x2dbee32da1a075d3:0x88e9cc6030cfa1dd!8m2!3d-5.1712763!4d119.4363863!16s%2Fg%2F11hzz54gmz" target="_blank" rel="noopener">Maps</a></li>
     </ul>
-    <h3>Essential Links</h3>
+    <h3>Contact</h3>
     <ul>
-      <li><a href="https://vuejs.org" target="_blank" rel="noopener">Core Docs</a></li>
-      <li><a href="https://forum.vuejs.org" target="_blank" rel="noopener">Forum</a></li>
-      <li><a href="https://chat.vuejs.org" target="_blank" rel="noopener">Community Chat</a></li>
-      <li><a href="https://twitter.com/vuejs" target="_blank" rel="noopener">Twitter</a></li>
-      <li><a href="https://news.vuejs.org" target="_blank" rel="noopener">News</a></li>
+      <li>Follow us to know more about SMK TELKOM MAKASSAR</li>
+      <li><a href="https://www.instagram.com/stelkmakassar/" target="_blank" rel="noopener">Instagram</a></li>
+      <li><a href="https://m.facebook.com/stelkmakassar/" target="_blank" rel="noopener">Facebook</a></li>
+      <li><a href="Stelkmks.ypt@gmail.com" target="_blank" rel="noopener">Email</a></li>
+      <li><a href="https://www.youtube.com/channel/UCSuUu4RCSjMBiyJopVX-elQ" target="_blank" rel="noopener">Youtube</a></li>
     </ul>
-    <h3>Ecosystem</h3>
+    <h3>Our Website</h3>
     <ul>
-      <li><a href="https://router.vuejs.org" target="_blank" rel="noopener">vue-router</a></li>
-      <li><a href="https://vuex.vuejs.org" target="_blank" rel="noopener">vuex</a></li>
-      <li><a href="https://github.com/vuejs/vue-devtools#vue-devtools" target="_blank" rel="noopener">vue-devtools</a></li>
-      <li><a href="https://vue-loader.vuejs.org" target="_blank" rel="noopener">vue-loader</a></li>
-      <li><a href="https://github.com/vuejs/awesome-vue" target="_blank" rel="noopener">awesome-vue</a></li>
+      <li>Also visit our website to know more about SMK TELKOM MAKASSAR</li>
+      <li><a href="https://smktelkom-mks.sch.id/" target="_blank" rel="noopener">SMK TELKOM MAKASSAR</a></li>
     </ul>
   </div>
 </template>
@@ -40,7 +37,8 @@ export default {
 <!-- Add "scoped" attribute to limit CSS to this component only -->
 <style scoped>
 h1{
-  color: #000;
+  margin: 40px 0 0;
+  color: #2c3e50;
   font-weight: 600;
 }
 h3 {
@@ -55,6 +53,8 @@ li {
   margin: 0 10px;
 }
 a {
-  color: #42b983;
+  text-decoration: none;
+  color: red;
+  font-weight: 600;
 }
 </style>
